@@ -1,12 +1,12 @@
 # 💫 About Me:
 🔭 I’m currently working on turning ideas into real-world projects  
-<br><br>
+<br>
 👯 I’m looking to collaborate on Open Source & impactful tech  
-<br><br>
+<br>
 🌱 I’m currently learning DSA, Backend Development & System Design  
-<br><br>
+<br>
 💬 Ask me about Python, Web Development & GitHub  
-<br><br>
+<br>
 ⚡ Fun fact: Consistency > Motivation 🚀  
 
 ---
