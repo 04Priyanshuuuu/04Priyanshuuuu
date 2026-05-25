@@ -5,7 +5,7 @@
 <br>
 🌱 I’m currently learning DSA, Backend Development & System Design  
 <br>
-💬 Ask me about Python, Web Development & GitHub  
+💬 Ask me about Python, Full Stack Development , API & GitHub  
 <br>
 ⚡ Fun fact: Consistency > Motivation 🚀  
 
